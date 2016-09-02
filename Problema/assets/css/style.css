@@ -1,0 +1,78 @@
+ul{
+	margin:0px;
+	padding-left: 0px;
+}
+.hr{
+	margin-bottom: 0px;
+}
+
+.hr2{
+	margin-top: 1%;
+}
+.precio-rojo{
+	color: red;
+}
+.precio-ant{
+	color: gray;
+	text-decoration: line-through;
+}
+.p-new{
+	background-color: #E48080;
+	color: white;
+	padding: 2%;
+}
+.p-sale{
+	background-color: black;
+	color: white;
+	padding: 2%;
+}
+.fecha{
+
+}
+.red{
+	color: red;
+}
+.borde{
+	border: solid gray 2px;
+}
+.brd-der{
+	border-right: solid gray 2px;
+}
+.bg-gray{
+	background-color: #F7F7F9;
+}
+
+/*imagenes background*/
+/*SHORTCUTS*/
+.fondo-back{
+	background-image: url("../images/client-bg.jpg");
+	width: 100%;
+	padding-top: 7%;
+	padding-bottom: 7%;
+	background-size: cover;
+}
+.marcas{
+	padding-left: 2%;
+	padding-right: 2%;
+	width: 80%;
+
+}
+
+.pt-5{
+	padding-top: 5%;
+
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
+
+.inline{
+	display: inline-block;
+}
+
