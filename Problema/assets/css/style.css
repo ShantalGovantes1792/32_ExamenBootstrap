@@ -2,6 +2,13 @@ ul{
 	margin:0px;
 	padding-left: 0px;
 }
+.navbar-default{
+	font-size: 0.8em;
+}
+.navbar-brand{
+	font-size: 0.8em;
+}
+
 .hr{
 	margin-bottom: 0px;
 }
